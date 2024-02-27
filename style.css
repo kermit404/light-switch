@@ -1,4 +1,4 @@
-body{
+body {
     margin: 0;
 }
 .w {
@@ -21,4 +21,11 @@ button {
     appearance: none;
     background-color: inherit;
 }
+.tbh img {
+    opacity: 0;
+}
+.tbh:hover img {
+    opacity: 1;
+}
+  
   
